@@ -1,6 +1,6 @@
 == README
 
-XML feed для Joomla Virtuemart отдельным файлом
+XML feed генератор для Joomla Virtuemart отдельным файлом в формате Yandex
 
 Установка:
 
